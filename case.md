@@ -21,6 +21,11 @@ In 1903, John V. Atanasoff and Clifford Berry attempted to create an electric co
 ### Defining the Business viewpoint
 From a business perspective, the evolution of computing machines isn’t just about faster processors, smaller circuits, the internet, artificial intelligence, automation and much more. It’s about how those advancements transformed industries and economies, improved efficiencies and changed the way businesses operate.
 ### The Transformation Through Business Eyes
+The evolution of computing machines through business eyes reveals a significant shift from specialised, expensive tools to indispensable, commodity driven  systems that essentially reshaped organisational operations and market dynamics.
+•	1940s and 1950s: Originally, computing was dominated by mainframe systems used mostly by large businesses and governments, with hardware development being at the forefront and software being considered a secondary, often free, component bundled with hardware.
+•	1970s: This then began to shift when the arrival of microprocessors, integrated circuits that placed an entire processing unit on a single chip, completely reformed computers from costly, complex machinery into small, affordable and more accessible devices. Around 1975, the computer’s role in business went through a transformation from a mere calculation engine to a digital communications platform, enabling new forms of organisational architecture and strategic alignment.
+•	1990s: Additions to computing that shaped how businesses of that time used computers would have to be the rise of Local Area Networks(LANs) and the internet. Businesses began connecting PCs to share files, printers, and data, leading to the concept of “group computing”. Email and early groupware significantly reduced paperwork and meeting time, boosting collaboration and promoting efficiency.
+
 ## Viewpoint 2 
 # Ethical reflection and improvements 
 # Conclusion 

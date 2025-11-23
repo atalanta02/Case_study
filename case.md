@@ -32,8 +32,11 @@ The ENIAC was used by (Ballistics Research Laboratory) BRL for war purposes unti
 **Interactive web**
 # Key figures and organisations 
 •	Steve Jobs & Steve Wozniak: Co-founders of Apple, they played a key role in launching the personal computer revolution with the Apple 1 and 2.
+
 •	Gordon Moore: Co-founder of Intel and author of Moore’s law, which predicted the exponential growth of computing power.
+
 •	Ada Lovelace: Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
+
 •	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
 
 # VIEWPOINTS 
@@ -45,7 +48,9 @@ From a business perspective, the evolution of computing machines isn’t just ab
 The evolution of computing machines through business eyes reveals a significant shift from specialised, expensive tools to indispensable, commodity driven  systems that essentially reshaped organisational operations and market dynamics.
 
 •   1940s and 1950s: Originally, computing was dominated by mainframe systems used mostly by large businesses and governments, with hardware development being at the forefront and software being considered a secondary, often free, component bundled with hardware.
+
 •   1970s: This then began to shift when the arrival of microprocessors, integrated circuits that placed an entire processing unit on a single chip, completely reformed computers from costly, complex machinery into small, affordable and more accessible devices. Around 1975, the computer’s role in business went through a transformation from a mere calculation engine to a digital communications platform, enabling new forms of organisational architecture and strategic alignment.
+
 •   1990s: Additions to computing that shaped how businesses of that time used computers would have to be the rise of Local Area Networks(LANs) and the internet. Businesses began connecting PCs to share files, printers, and data, leading to the concept of “group computing”. Email and early groupware significantly reduced paperwork and meeting time, boosting collaboration and promoting efficiency.
 
 ### Economic Impact
@@ -72,7 +77,7 @@ Today, business competition revolves around AI, cloud infrastructure, and data n
 ### Connection to Module Concepts
 Looking at the evolution of computing machines through a business lens, we are directly linked to several concepts of the module that lays emphasis on the impact of technology on forms of enterprise, competition, and a set amount of economic value.
 
-## Viewpoint 2 
+
 ### Societal Viewpoint Analysis
 Now from a societal viewpoint, the evolution of computing machines is more than just a technical timeline,  the evolution of computing machines has been a story about how people, communities and even cultures have been reshaped by new ways of how we communicate, learn and work that have been introduced. As computers have long moved past from originally being niche machinery in labs to everyday tools present in homes, schools, and workplaces, society had to adapt at every age.
 
@@ -80,7 +85,9 @@ Now from a societal viewpoint, the evolution of computing machines is more than 
 Computing has completely changed how we communicate as a society, making it not only instantly  but also globally. The internet and email broke down previous distance barriers, allowing instant communication with anyone in the world. Social media platforms have enabled people to create virtual communities based not on location but on shared interest also which has helped creating relationships and mobilising socially. Access to information has become easier, however it has introduced challenges like misinformation and digital echo chambers.
 
 •	1645-1694: The first forms of computing machines were the mechanical calculators designed  by Blaise Pascal in 1645 and Gottfried Leibniz in 1694 to solve navigational and scientific problems. These two scientists began the development of computing machine Europe Entered a new and greater period of scientific development and international trade.
+
 •	Twentieth Century: The first electronic computers were developed for military purposes due to world war 2. The computers that are being used today are the descendants of the early efforts which were mainly used for military planning and calculating. Society’s needs and desires have led to the development of a wide range of computing technologies, including supercomputers, graphics, processors, games, digital video, mobile computing devices and telephones.
+
 •	Twenty-first century – In the twenty first century computers are being employed in various fields of society like, agriculture, art, commerce and global trade, communication, education, governance, law, music, politics, science, transportation, and writing.
 
 ### Economic Impact

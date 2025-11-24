@@ -101,6 +101,9 @@ E-commerce giants and platform companies like Amazon and Alibaba were able to up
 From a societal perspective, the development of computing devices directly relates to a number of fundamental ideas we discussed in the module regarding how technology affects individuals, groups, and social structures.
 
 # Ethical reflection and improvements 
+Introduction to Ethical Challenges  
+
+The evolution of computing devices, although a remarkable feat of engineering and a massive cause of international trade, poses a range of significant ethical dilemmas
 # Conclusion 
  
 # References: 

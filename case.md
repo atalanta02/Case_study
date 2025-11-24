@@ -102,6 +102,7 @@ From a societal perspective, the development of computing devices directly relat
 
 # Ethical reflection and improvements 
 Introduction to Ethical Challenges 
+
 The evolution of computing devices, although a remarkable feat of engineering and a massive cause of international trade, poses a range of significant ethical dilemmas
 
 Digital Divide 

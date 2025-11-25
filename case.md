@@ -1,8 +1,8 @@
 # Introduction 
 This case study examines one of the most important transformations in computing: The evolution of computing machines including the first steps taken by Charles Babbage in the nineteenth century, through ENIAC first electronic computers during the wartime to PCs which led to laptops and smartphones that we now use. 
-We will look at the transformation through two viewpoints: business and . We will then we will see discuss the ethical implications of the transformation with regards to the,  
- 
-This development is important, because it shows the development of computers and how they have impacted the world in terms of the business side and
+We will look at the transformation through two viewpoints: business and the societal. We will then we will see discuss the ethical implications of the transformation with regards to the, bussiness and the society.
+This development is important, because it shows the development of computers and how they have impacted the world in terms of the business side and how it impacts the society.
+
 # Historical development 
 ## Timeline of key events 
 ** Before 1940: Pre electronic era**
@@ -21,6 +21,7 @@ UNIVAC is the name of the series of digital computers produced by EMCC short for
 In 1947, the transistor was invented at Bell's Lab by William Shockley. The invention of the transistor greatly influenced the development of computers. It was made from semiconductor material Silicone (Sand); it was either used to amplify a signal or open or shut a circuit. Compared to the first-generation computers, transistors shrank in size, and cost and the heat produced from vacuum tubes was a welcome byproduct. There was an introduction of components including the CPU short for central processing unit, storage, programming language and Input output devices. The programming languages like FORTRAN (1956), (ALGOL1958) were a transition from high level languages which made programming relatively easy. Examples of the second generation includes the IBM 7094, built with a multiplexor with goals of increasing capabilities and capacity, and the DEC PDP 1 in 1957 the Programmed Data Processor-1 was introduced from Digital Equipment Corporation.
 
 **Third Generation (1960s–1970s): Integrated Circuits (ICs)**
+Although transistors are in many ways superior to vacuum tubes, they generate considerable heat, which can potentially damage the internal parts of the computer. Jack Kilby, an engineer at Texas Instrument, developed an integrated circuit (IC). The devices were made from microo-electronics known by the name of chips Gordon Moore (cofounder of intel). The minicomputers with devices like input/output devices like: Magneto-optical disks, keyboards, screens, printers   were introduced in this generation because they were small, cheap, quicker and more dependable than the second generation. The information was stored in a magnetic tape or disk with a big magnetic core. It used languages like FORTRAN, BASIC, COBOL, C and Pascal just to mention a few (still considered high level languages). Examples of the third-generation computers include: the IBM 360 launched in 1964 with main storage speeds of 2 microseconds and 1 microsecond, and the DEC PDP-8 launched in 1964 which uses the omnibus system which will be later used by the Morden computers.
 **Fourth Generation (1971–Present): Microprocessor Based**
 **Fifth Generation (present and future):**
 

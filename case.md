@@ -5,31 +5,23 @@ We will look at the transformation through two viewpoints: business and . We wil
 This development is important, because it shows the development of computers and how they have impacted the world in terms of the business side and
 # Historical development 
 ## Timeline of key events 
-** Before 1940**
+** Before 1940: Pre electronic era**
 After recognizing larger numbers but still used digits from 0 to 9. Businessmen from China, Turkey and Greece used the abacus (abacus) to perform the calculations.  In 1617, John Napier came up with logarithmic calculations and invented a tool called the Napier bone. Blaise Pascal invented the first mechanical calculation machine in 1642.  This machine operates by moving the gears on the wheels. 
-The beginning of the actual computer was formed by an English professor of mathematics, Charles Babbage (1791-1871). 
-
-
-In 1812, Babbage noticed how machines were excellent at solving recuring mathematical problems. Babbage's first machine was called the Differential Machine in 1822 proposed for calculating differential equations. After working with the Differential Machine for ten years, Babbage was suddenly inspired to start building the first general-purpose computer, called the Analytical Engine. Babbage's assistant, Augusta Ada King (1815-1842), the first female programmer helped revise plans, seek funding from the UK government, and communicate the Analytical Engine's specifications to the public.
-
-
-
-
-
-
-
-  
+The beginning of the actual computer was formed by an English professor of mathematics, Charles Babbage (1791-1871). In 1812, Babbage noticed how machines were excellent at solving recuring mathematical problems. Babbage's first machine was called the Differential Machine in 1822 proposed for calculating differential equations. After working with the Differential Machine for ten years, Babbage was suddenly inspired to start building the first general-purpose computer, called the Analytical Engine. Babbage's assistant, Augusta Ada King (1815-1842), the first female programmer helped revise plans, seek funding from the UK government, and communicate the Analytical Engine's specifications to the public.  
 In 1903, John V. Atanasoff and Clifford Berry attempted to create an electric computer that applied Boolean algebra to electrical circuits. This approach is based on the work of George Boole (1815-1864) in the form of the binary algebraic system, which states that any mathematical equation can be declared as true or false. Howard Aiken introduced the use of an electromechanical machine called the Mark I in 1937. By applying true-false conditions into electrical circuits in a disconnected form, Atanasoff and Berry created the first electric computer in 1940. However, their project was halted due to a lack of funding sources.
-**ENIAC (Electronic Numerical Integrator And Computer) **
-The ENIAC (Electronic Numerical Integrator And Computer), designed and built by John Mauchly and John Presper Eckert at the University of Pennsylvania was the world's first general-purpose electronic digital computer. The ENIAC was completed in 1946 since the proposal was submitted in 1943, so that 1946 was the gateway to a new era of electronic computers. The ENIAC was created under the Army's Ballistics Research Laboratory (BRL). It had more profound contributions to advance in the military science and technology. ENIAC simulated explosions of atomic and hydrogen bombs, airflow at supersonic speed during the cold war. It is known as the origin point of programming, as it had its first six operators were hired in mid-1945. 
-The ENIAC was used by (Ballistics Research Laboratory) BRL for war purposes until 1955. After that, the ENIAC is no longer used. This generation of computers has begun to store data known as the stored program concept proposed by John Von Neuman.
 
+### Generations of electronic computing
+**First Generation (1940s–1956s): Vacuum Tubes**
+The first generation, relied on vacuum tubes which were fragile glass devices. Those devices were big and heavy. The first-generation computer is 100% electronic and assists experts in solving calculation problems quickly and precisely. Due to their high-level programming like assembly language and computer code and no operating system, they were not very dependable and made programming hard. The devices used magnetic tapes and drums for primary storage. The devices used a lot of energy in terms of electricity and heat produced. A lot of vacuum computers were built between 1942 and 1963.
+Main examples of first-generation computers include: The ENIAC short for Electronic Numerical Integrator and Computer, EDVAC short for Electronic Discrete Variable Automatic computer, and UNIVAC short for Universal Automatic Computer.
+The ENIAC was designed and built by John Mauchly and John Presper Eckert at the University of Pennsylvania was the world's first general-purpose electronic digital computer. The ENIAC was created under the Army's Ballistics Research Laboratory (BRL). It had more profound contributions to advance in the military science and technology. ENIAC most important work was the development of the mathematical labour involved in the production of firing tables. The firing tables used controls to set the direction and elevation of a gun’s barrel, but the distance travelled by the shell was determined by the density of the air and velocity of the wind. The process began on BRL’s test range, where about ten rounds were fired at various elevation. Toward the end of 1942, more than 100 women were assigned to work on the firing tables, including Mary, Mauchly’s wife in a small building on the University of Pennsylvania. The ENIAC was used by (Ballistics Research Laboratory) BRL for war purposes until 1955. 
+After that, the ENIAC was no longer used, this generation of computers began to store data known as the stored program concept proposed by John Von Neuman.  EDVAC used mercury acoustic delay lines for memory. Whilst ENIAC was a fixed computer that needed to be physically rewired to solve different problems, the EDIVAC computer implemented the concept of stored program. This device could save information in form of instruction which boosted its processing speed.
+UNIVAC is the name of the series of digital computers produced by EMCC short for Eckert-Mauchly Computer Corporation, first produced from the US Census Bureau in 1948 for the 1950 census. The series consisted of the UNIVAC I, UNIVAC II released in 1958, and the UNIVAC III in 1962 by Sperry Rand. In 1949 UNIVAC hired Grace Murphy Hopper who made important contributions to the early developments of compilers, programming language constructs and data processing and the COBOL programming language.
+**Second Generation (1950s–1960s): Transistors**
+**Third Generation (1960s–1970s): Integrated Circuits (ICs)**
+**Fourth Generation (1971–Present): Microprocessor Based**
+**Fifth Generation (present and future):**
 
-**1959 IBM**
-**software**
-**personal computers**
-**internet**
-**Interactive web**
 # Key figures and organisations 
 •	Steve Jobs & Steve Wozniak: Co-founders of Apple, they played a key role in launching the personal computer revolution with the Apple 1 and 2.
 

@@ -31,6 +31,8 @@ UNIVAC is the name of the series of digital computers produced by EMCC short for
 
 •	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
 
+•   Grace Murphy Hopper:  important contributions to the early developments of data processing and the COBOL programming language.
+
 # VIEWPOINTS 
 ## Business Viewpoint analysis 
 ### Defining the Business viewpoint

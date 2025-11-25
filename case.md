@@ -18,6 +18,8 @@ The ENIAC was designed and built by John Mauchly and John Presper Eckert at the 
 After that, the ENIAC was no longer used, this generation of computers began to store data known as the stored program concept proposed by John Von Neuman.  EDVAC used mercury acoustic delay lines for memory. Whilst ENIAC was a fixed computer that needed to be physically rewired to solve different problems, the EDIVAC computer implemented the concept of stored program. This device could save information in form of instruction which boosted its processing speed.
 UNIVAC is the name of the series of digital computers produced by EMCC short for Eckert-Mauchly Computer Corporation, first produced from the US Census Bureau in 1948 for the 1950 census. The series consisted of the UNIVAC I, UNIVAC II released in 1958, and the UNIVAC III in 1962 by Sperry Rand. In 1949 UNIVAC hired Grace Murphy Hopper who made important contributions to the early developments of compilers, programming language constructs and data processing and the COBOL programming language.
 **Second Generation (1950s–1960s): Transistors**
+In 1947, the transistor was invented at Bell's Lab by William Shockley. The invention of the transistor greatly influenced the development of computers. It was made from semiconductor material Silicone (Sand); it was either used to amplify a signal or open or shut a circuit. Compared to the first-generation computers, transistors shrank in size, and cost and the heat produced from vacuum tubes was a welcome byproduct. There was an introduction of components including the CPU short for central processing unit, storage, programming language and Input output devices. The programming languages like FORTRAN (1956), (ALGOL1958) were a transition from high level languages which made programming relatively easy. Examples of the second generation includes the IBM 7094, built with a multiplexor with goals of increasing capabilities and capacity, and the DEC PDP 1 in 1957 the Programmed Data Processor-1 was introduced from Digital Equipment Corporation.
+
 **Third Generation (1960s–1970s): Integrated Circuits (ICs)**
 **Fourth Generation (1971–Present): Microprocessor Based**
 **Fifth Generation (present and future):**
@@ -131,7 +133,10 @@ Jmu.edu. (2025). How Computers Changed the Workplace – Social Change Interview
 Career Trend. (2013). How Have Computers Changed the Workplace? [online] Available at: https://careertrend.com/computers-changed-workplace-2197.html.
 NBER. (2025). How Has Computer Use Changed the Labor Market? [online] Available at: https://www.nber.org/digest/sep97/how-has-computer-use-changed-labor-market?page=1&perPage=50.
 Gibbs, M. and Bazylik, S. (2022). How is new technology changing job design? IZA World of Labor. doi:https://doi.org/10.15185/izawol.344.
+‌Google.ie. (2019). Google Books. [online] Available at: https://www.google.ie/books/edition/Introduction_to_the_History_of_Computing/6u16DAAAQBAJ?hl=en&gbpv=1&dq=edvac%20computer&pg=PA62&printsec=frontcover 
+Google.ie. (2019). Google Books. [online] Available at: https://www.google.ie/books/edition/Computer_Fundamentals_Organisation_And_A/ECP0EAAAQBAJ?hl=en&gbpv=1&dq=First%20Generation%20(1940s%E2%80%931950s)of%20computers&pg=PA24&printsec=frontcover  [Accessed 25 Nov. 2025].
 ‌
+
 
 ‌
 

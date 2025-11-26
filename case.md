@@ -34,7 +34,7 @@ Fifth Generation computers have the greatest speed, smallest size and widest ran
 
 •	Ada Lovelace: Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
 
-•	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
+•	Bill Gates:  Co-founder of Microsoft, which used Windows and MS-DOS to propel PC software’s dominance.
 
 •   Grace Murphy Hopper:  important contributions to the early developments of data processing and the COBOL programming language.
 

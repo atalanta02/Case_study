@@ -5,38 +5,56 @@ This development is important, because it shows the development of computers and
 
 # Historical development 
 ## Timeline of key events 
-**Before 1940: Pre electronic era**
+### Before 1940: Pre electronic era
 After recognizing larger numbers but still used digits from 0 to 9. Businessmen from China, Turkey and Greece used the abacus (abacus) to perform the calculations.  In 1617, John Napier came up with logarithmic calculations and invented a tool called the Napier bone. Blaise Pascal invented the first mechanical calculation machine in 1642.  This machine operates by moving the gears on the wheels. 
 The beginning of the actual computer was formed by an English professor of mathematics, Charles Babbage (1791-1871). In 1812, Babbage noticed how machines were excellent at solving recuring mathematical problems. Babbage's first machine was called the Differential Machine in 1822 proposed for calculating differential equations. After working with the Differential Machine for ten years, Babbage was suddenly inspired to start building the first general-purpose computer, called the Analytical Engine. Babbage's assistant, Augusta Ada King (1815-1842), the first female programmer helped revise plans, seek funding from the UK government, and communicate the Analytical Engine's specifications to the public.  
 In 1903, John V. Atanasoff and Clifford Berry attempted to create an electric computer that applied Boolean algebra to electrical circuits. This approach is based on the work of George Boole (1815-1864) in the form of the binary algebraic system, which states that any mathematical equation can be declared as true or false. Howard Aiken introduced the use of an electromechanical machine called the Mark I in 1937. By applying true-false conditions into electrical circuits in a disconnected form, Atanasoff and Berry created the first electric computer in 1940. However, their project was halted due to a lack of funding sources.
 
-### Generations of electronic computing
-**First Generation (1940s–1956s): Vacuum Tubes**
+### ***Generations of electronic computing***
+
+### First Generation (1940s–1956s): Vacuum Tubes
+
 The first generation, relied on vacuum tubes which were fragile glass devices. Those devices were big and heavy. The first-generation computer is 100% electronic and assists experts in solving calculation problems quickly and precisely. Due to their high-level programming like assembly language and computer code and no operating system, they were not very dependable and made programming hard. The devices used magnetic tapes and drums for primary storage. The devices used a lot of energy in terms of electricity and heat produced. A lot of vacuum computers were built between 1942 and 1963.
 Main examples of first-generation computers include: The ENIAC short for Electronic Numerical Integrator and Computer, EDVAC short for Electronic Discrete Variable Automatic computer, and UNIVAC short for Universal Automatic Computer.
-The ENIAC was designed and built by John Mauchly and John Presper Eckert at the University of Pennsylvania was the world's first general-purpose electronic digital computer. The ENIAC was created under the Army's Ballistics Research Laboratory (BRL). It had more profound contributions to advance in the military science and technology. ENIAC most important work was the development of the mathematical labour involved in the production of firing tables. The firing tables used controls to set the direction and elevation of a gun’s barrel, but the distance travelled by the shell was determined by the density of the air and velocity of the wind. The process began on BRL’s test range, where about ten rounds were fired at various elevation. Toward the end of 1942, more than 100 women were assigned to work on the firing tables, including Mary, Mauchly’s wife in a small building on the University of Pennsylvania. The ENIAC was used by (Ballistics Research Laboratory) BRL for war purposes until 1955. 
-After that, the ENIAC was no longer used, this generation of computers began to store data known as the stored program concept proposed by John Von Neuman.  EDVAC used mercury acoustic delay lines for memory. Whilst ENIAC was a fixed computer that needed to be physically rewired to solve different problems, the EDIVAC computer implemented the concept of stored program. This device could save information in form of instruction which boosted its processing speed.
+The ENIAC was designed and built by John Mauchly and John Presper Eckert at the University of Pennsylvania was completed in November 1945, was the first machine to incorporate the full set of traits of a modern computer and hence considered the world's first general-purpose electronic digital computer. It was all-electronic, superfast, and could be programmed by plugging and unplugging the cables connecting its different units. It was capable of changing paths based on interim results, and it qualified as a general-purpose. It became the basis for most subsequent computers. The ENIAC was created under the Army's Ballistics Research Laboratory (BRL). It had more profound contributions to advance in the military science and technology. ENIAC most important work was the development of the mathematical labour involved in the production of firing tables. The firing tables used controls to set the direction and elevation of a gun’s barrel, but the distance travelled by the shell was determined by the density of the air and velocity of the wind.The ENIAC was used by (Ballistics Research Laboratory) BRL for war purposes until 1955. 
+
+After that, the ENIAC was no longer used, this generation of computers began to store data known as the stored program concept proposed by John Von Neuman. EDVAC used mercury acoustic delay lines for memory. Whilst ENIAC was a fixed computer that needed to be physically rewired to solve different problems, the EDIVAC computer implemented the concept of stored program. This device could save information in form of instruction which boosted its processing speed.
 UNIVAC is the name of the series of digital computers produced by EMCC short for Eckert-Mauchly Computer Corporation, first produced from the US Census Bureau in 1948 for the 1950 census. The series consisted of the UNIVAC I, UNIVAC II released in 1958, and the UNIVAC III in 1962 by Sperry Rand. In 1949 UNIVAC hired Grace Murphy Hopper who made important contributions to the early developments of compilers, programming language constructs and data processing and the COBOL programming language.
-**Second Generation (1950s–1960s): Transistors**
+
+### Second Generation (1950s–1960s): Transistors
+
 In 1947, the transistor was invented at Bell's Lab by William Shockley. The invention of the transistor greatly influenced the development of computers. It was made from semiconductor material Silicone (Sand); it was either used to amplify a signal or open or shut a circuit. Compared to the first-generation computers, transistors shrank in size, and cost and the heat produced from vacuum tubes was a welcome byproduct. There was an introduction of components including the CPU short for central processing unit, storage, programming language and Input output devices. The programming languages like FORTRAN (1956), (ALGOL1958) were a transition from high level languages which made programming relatively easy. Examples of the second generation includes the IBM 7094, built with a multiplexor with goals of increasing capabilities and capacity, and the DEC PDP 1 in 1957 the Programmed Data Processor-1 was introduced from Digital Equipment Corporation.
 
-**Third Generation (1960s–1970s): Integrated Circuits (ICs)**
+### Third Generation (1960s–1970s): Integrated Circuits (ICs)
+
 Although transistors are in many ways superior to vacuum tubes, they generate considerable heat, which can potentially damage the internal parts of the computer. Jack Kilby, an engineer at Texas Instrument, developed an integrated circuit (IC). The devices were made from microo-electronics known by the name of chips Gordon Moore (cofounder of intel). The minicomputers with devices like input/output devices like: Magneto-optical disks, keyboards, screens, printers   were introduced in this generation because they were small, cheap, quicker and more dependable than the second generation. The information was stored in a magnetic tape or disk with a big magnetic core. It used languages like FORTRAN, BASIC, COBOL, C and Pascal just to mention a few (still considered high level languages). Examples of the third-generation computers include: the IBM 360 launched in 1964 with main storage speeds of 2 microseconds and 1 microsecond, and the DEC PDP-8 launched in 1964 which uses the omnibus system which will be later used by the Morden computers.
-**Fourth Generation (1971–Present): Microprocessor Based**
+
+### Fourth Generation (1971–Present): Microprocessor Based
+
 In 1971, the microprocessors were created, LSI short for large -scale integration circuit with hundreds of components one chip was the first. This new generation of was notable for its miniaturization while increasing performance and reducing the cost. The LSI circuit was then replaced by the VLSI short for Very Large-Scale Integration in 1980, containing thousands of components in a single chip. Ultra-Large-Scale Integration (ULSI) increases that number to millions. In 1971, intel released the 4004 chips 4-bit processor, which integrated the central processing unit, memory, and input/output controls in the same semiconductor. Followed by the 8008 chips 8-bit (1 byte) processor in 1972 then 8086 in 1974 a 16-bit microprocessor with instruction caching technology. This made it easy to conduct multiprocessing, multiprogramming, time- sharing, virtual memory and speed. In 1981, personal computers were introduced by the IBM for home, office, and school use and computers networks were created to allow communication between devices by wiring or telephone cables and they grow large. RAM and ROM were created for memory RAM (Random Access Memory) used to temporary storage and ROM (Read Only Memory) used for long term storage. There was an introduction of Python programming, C#, JavaScript, Java, and Rust just to mention a few.
-**Fifth Generation (present and future): artificial Intelligence Based**
+
+### Fifth Generation (present and future): artificial Intelligence Based
+
 Fifth Generation computers have the greatest speed, smallest size and widest range of applications. The devices are AI powered due to that fact they mimic human actions and takes advantage of the ULSI short for Ultra Large-Scale Integration technologies and parallel computing approach. Application examples include Image processing, Voice or speech recognition, Video conference and Data transfer, etc.  Many advances in computer design and technology have made it possible to create fifth-generation computers. The two main engineering advances are parallel processing capabilities, which will replace non-Neumann models. The non-Neumann model will be replaced by a system that is able to coordinate multiple CPUs to work simultaneously.  The performance of a computer system is the result of the process of all computer components, which involve the CPU, primary memory, secondary memory, buses, peripherals. In terms of the development of the application program.  Physical examples of the fifth-generation computers include computers, laptops, tablets and smartphones just to mention a few.
 
 # Key figures and organisations 
+
 •	Steve Jobs & Steve Wozniak: Co-founders of Apple, they played a key role in launching the personal computer revolution with the Apple 1 and 2.
 
 •	Gordon Moore: Co-founder of Intel and author of Moore’s law, which predicted the exponential growth of computing power.
 
 •	Ada Lovelace: Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
 
+•	Howard Aiken’s Harvard Mark I, built with IBM and put into operation in May 1944, was programmable, as we will see in the fol- lowing chapter, but it was electromechanical rather than electronic.
+
+•	Charles : Acknowledged for being the first computer programmer to create algorithms for 'Babbage'’s Analytical Engine.
+
 •	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
 
 •   Grace Murphy Hopper:  important contributions to the early developments of data processing and the COBOL programming language.
+
+•   The Women Of ENIAC: the six women Jean Jennings, Betty Synder, Kay McNutlty, Marlyn Wescoff, Ruth Litherman, and Frances Bilas are well known for being the first general purpose computer programmers.
+
 
 # VIEWPOINTS 
 ## Business Viewpoint analysis 
@@ -77,7 +95,7 @@ Today, business competition revolves around AI, cloud infrastructure, and data n
 Looking at the evolution of computing machines through a business lens, we are directly linked to several concepts of the module that lays emphasis on the impact of technology on forms of enterprise, competition, and a set amount of economic value.
 
 
-### Societal Viewpoint Analysis
+## Societal Viewpoint Analysis
 Now from a societal viewpoint, the evolution of computing machines is more than just a technical timeline,  the evolution of computing machines has been a story about how people, communities and even cultures have been reshaped by new ways of how we communicate, learn and work that have been introduced. As computers have long moved past from originally being niche machinery in labs to everyday tools present in homes, schools, and workplaces, society had to adapt at every age.
 
 ### The Transformation Through Society Eyes

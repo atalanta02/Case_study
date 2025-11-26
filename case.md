@@ -60,11 +60,15 @@ Fifth Generation computers have the greatest speed, smallest size and widest ran
 
 •	Ada Lovelace: Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
 
+<<<<<<< HEAD
 •	Howard Aiken’s Harvard Mark I, built with IBM and put into operation in May 1944, was programmable, as we will see in the fol- lowing chapter, but it was electromechanical rather than electronic.
 
 •	Charles : Acknowledged for being the first computer programmer to create algorithms for 'Babbage'’s Analytical Engine.
 
 •	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
+=======
+•	Bill Gates:  Co-founder of Microsoft, which used Windows and MS-DOS to propel PC software’s dominance.
+>>>>>>> f3f829558eb539e400adf9680dbd6625f467d798
 
 •   Grace Murphy Hopper:  important contributions to the early developments of data processing and the COBOL programming language.
 

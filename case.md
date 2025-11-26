@@ -54,26 +54,18 @@ Fifth Generation computers have the greatest speed, smallest size and widest ran
 
 # Key figures and organisations 
 
-•	Steve Jobs & Steve Wozniak: Co-founders of Apple, they played a key role in launching the personal computer revolution with the Apple 1 and 2.
-
-•	Gordon Moore: Co-founder of Intel and author of Moore’s law, which predicted the exponential growth of computing power.
-
-•	Ada Lovelace: Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
-
-<<<<<<< HEAD
-•	Howard Aiken’s Harvard Mark I, built with IBM and put into operation in May 1944, was programmable, as we will see in the fol- lowing chapter, but it was electromechanical rather than electronic.
-
-•	Charles : Acknowledged for being the first computer programmer to create algorithms for 'Babbage'’s Analytical Engine.
-
-•	Bill Gates:  Co-founder of Microsoft, which used 	Windows and MS-DOS to propel PC software’s dominance.
-=======
-•	Bill Gates:  Co-founder of Microsoft, which used Windows and MS-DOS to propel PC software’s dominance.
->>>>>>> f3f829558eb539e400adf9680dbd6625f467d798
-
-•   Grace Murphy Hopper:  important contributions to the early developments of data processing and the COBOL programming language.
-
-•   The Women Of ENIAC: the six women Jean Jennings, Betty Synder, Kay McNutlty, Marlyn Wescoff, Ruth Litherman, and Frances Bilas are well known for being the first general purpose computer programmers.
-
+# Key figures and organisations 
+•	**Charles Babbage:** Well known for creating the Baggage Devices known as the Differential engine which was soon replaced by the Analytical engine.
+•	**Ada Lovelace:** Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
+•	**John Mauchly and J. Presper Eckert:** the two men who built the ENIAC.
+•	**The Women Of ENIAC:**: the six women Jean Jennings, Betty Synder, Kay McNutlty, Marlyn Wescoff, Ruth Litherman, and Frances Bilas are well known for being the first general purpose computer programmers.
+•	**von Neumann:** defined the computer architecture still used today
+•	**Grace Murphy Hopper:**  important contributions to the early developments of data processing and the COBOL programming language.
+•	**Robert Noyce, Jack Kilby:** Created an integrated circuit (microchip) placing all components of an electronic circuit, this enabled Moore’s Law.
+•	**Ted Hoff (Intel):** Invented the microprocessor "computer on a chip” with the entire central processing unit of a computer onto a single integrated circuit. This made it possible to build small, affordable personal computers like the Altair 8800
+•	**Steve Jobs & Steve Wozniak:** Co-founders of Apple, they played a key role in launching the personal computer revolution with the Apple 1 and 2.
+•	**Bill Gates:** Co-founder of Microsoft, which used Windows and MS-DOS to propel PC software’s dominance.
+•	**Tim Berners-Lee:**invented the core components of the Web.
 
 # VIEWPOINTS 
 ## Business Viewpoint analysis 

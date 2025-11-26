@@ -37,7 +37,7 @@ In 1971, the microprocessors were created, LSI short for large -scale integratio
 
 Fifth Generation computers have the greatest speed, smallest size and widest range of applications. The devices are AI powered due to that fact they mimic human actions and takes advantage of the ULSI short for Ultra Large-Scale Integration technologies and parallel computing approach. Application examples include Image processing, Voice or speech recognition, Video conference and Data transfer, etc.  Many advances in computer design and technology have made it possible to create fifth-generation computers. The two main engineering advances are parallel processing capabilities, which will replace non-Neumann models. The non-Neumann model will be replaced by a system that is able to coordinate multiple CPUs to work simultaneously.  The performance of a computer system is the result of the process of all computer components, which involve the CPU, primary memory, secondary memory, buses, peripherals. In terms of the development of the application program.  Physical examples of the fifth-generation computers include computers, laptops, tablets and smartphones just to mention a few. 
 
-# Key figures and organisations 
+## Key figures and organisations 
 •	**Charles Babbage:** Well known for creating the Baggage Devices known as the Difference Engine which was soon replaced by the  Analytical Engine.
 •	**Ada Lovelace:** Acknowledged for being the first computer programmer to create algorithms for Babbage’s Analytical Engine.
 •	**John Mauchly and J. Presper Eckert:** the two men who built the ENIAC.

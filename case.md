@@ -162,8 +162,9 @@ Google.ie. (2019). Google Books. [online] Available at: https://www.google.ie/bo
 
 ‌Isaacson, W. (2015). The innovators : how a group of hackers, geniuses, and geeks created the digital revolution. New York: Simon & Schuster Paperbacks.
 
-
-‌
+Wanbil W. Lee, DBA, FBCS, FHKCS, FHKIE, FIMA, Wolfgang Zankl, Ph.D. and Henry Chang, CISM, CIPT, CISSP, DBA, FBCS. (2016) An ethical approach to data privacy protection. Available at: https://www.isaca.org/resources/isaca-journal/issues/2016/volume-6/an-ethical-approach-to-data-privacy-protection (Accessed: 25 Nov. 2025). 
+Essien Essien. (2017) Ethical Implications of the Digital Divide and Social Exclusion. Available at: https://www.researchgate.net/publication/320853178_Ethical_Implications_of_the_Digital_Divide_and_Social_Exclusion (Accessed: 24 Nov. 2025).
+Gilad David Maayan. (2024) 5 Technologies You Need to Protect Data Privacy. Available at: https://www.dataversity.net/articles/5-technologies-you-need-to-protect-data-privacy/
 
 ‌
 

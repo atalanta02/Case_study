@@ -150,6 +150,7 @@ NBER. (2025). How Has Computer Use Changed the Labor Market? [online] Available 
 Gibbs, M. and Bazylik, S. (2022). How is new technology changing job design? IZA World of Labor. doi:https://doi.org/10.15185/izawol.344.
 ‌Google.ie. (2019). Google Books. [online] Available at: https://www.google.ie/books/edition/Introduction_to_the_History_of_Computing/6u16DAAAQBAJ?hl=en&gbpv=1&dq=edvac%20computer&pg=PA62&printsec=frontcover 
 Google.ie. (2019). Google Books. [online] Available at: https://www.google.ie/books/edition/Computer_Fundamentals_Organisation_And_A/ECP0EAAAQBAJ?hl=en&gbpv=1&dq=First%20Generation%20(1940s%E2%80%931950s)of%20computers&pg=PA24&printsec=frontcover  [Accessed 25 Nov. 2025].
+
 ‌Isaacson, W. (2015). The innovators : how a group of hackers, geniuses, and geeks created the digital revolution. New York: Simon & Schuster Paperbacks.
 
 

@@ -90,7 +90,7 @@ Looking at the evolution of computing machines through a business lens, we are d
 
 
 ## Societal Viewpoint Analysis
-Now from a societal viewpoint, the evolution of computing machines is more than just a technical timeline,  the evolution of computing machines has been a story about how people, communities and even cultures have been reshaped by new ways of how we communicate, learn and work that have been introduced. As computers have long moved past from originally being niche machinery in labs to everyday tools present in homes, schools, and workplaces, society had to adapt at every age.
+Now from a societal viewpoint, the evolution of computing machines is more than just a technical timeline, the evolution of computing machines has been a story about how people, communities and even cultures have been reshaped by new ways of how we communicate, learn and work that have been introduced. As computers have long moved past from originally being niche machinery in labs to everyday tools present in homes, schools, and workplaces, society had to adapt at every age.
 
 ### The Transformation Through Society Eyes
 Computing has completely changed how we communicate as a society, making it not only instantly  but also globally. The internet and email broke down previous distance barriers, allowing instant communication with anyone in the world. Social media platforms have enabled people to create virtual communities based not on location but on shared interest also which has helped creating relationships and mobilising socially. Access to information has become easier, however it has introduced challenges like misinformation and digital echo chambers.
